@@ -1,7 +1,7 @@
 Pre-processing the Human Activity Recognition Dataset
 ========================================================
-Author: Shadi Zabad
-Getting and Cleaning Data Course
+Author: Shadi Zabad,
+Getting and Cleaning Data Course,
 21 June 2014
 
 ## Introduction
